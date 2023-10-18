@@ -9,11 +9,11 @@ let a1 = () => setTimeout(() => {
 }, 2000)
 
 let a2 = ()=> setTimeout(() => {
-    s2.innerHTML = "Hacking Gaurav's IPhone...";
+    s2.innerHTML = "Hacking Priya's Phone...";
 }, 3000)
 
 let a3 = ()=> setTimeout(() => {
-    s3.innerHTML = "    username found : <br>' kgisnarutofan@gmail.com '";
+    s3.innerHTML = "    username found : <br>' priyakr@gmail.com '";
 }, 5000)
 
 let a4 = ()=> setTimeout(() => {
@@ -21,7 +21,7 @@ let a4 = ()=> setTimeout(() => {
 }, 6000)
 
 let a5 = ()=> setTimeout(() => {
-    s5.innerHTML = "Hacked! <br> Hey Gaurav, let's Play a game💀";
+    s5.innerHTML = "Hacked! <br> Hey Priya, let's Play a game💀";
 }, 9000)
 
 
